@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`drag test 1`] = `
+<div
+  className="draggable"
+  onMouseDown={[Function]}
+  style={
+    Object {
+      "left": 100,
+      "top": 100,
+    }
+  }
+>
+  <div
+    className="box"
+  />
+</div>
+`;
